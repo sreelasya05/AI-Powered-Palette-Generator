@@ -1,0 +1,14 @@
+# Backend (Python)
+Flask
+flask-cors
+
+# Frontend (React - use npm/yarn)
+# These are listed in frontend/package.json and should be installed via:
+#   npm install
+# OR
+#   yarn install
+
+# Example dependencies (don't install with pip):
+# react
+# react-dom
+# react-scripts
