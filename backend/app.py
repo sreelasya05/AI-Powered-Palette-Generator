@@ -88,5 +88,5 @@ def upload_image():
     })
 
 if __name__ == '__main__':
-    print("✅ Flask server starting...")
+    print("Flask server starting...")
     app.run(debug=True)
