@@ -4,7 +4,7 @@ This project generates visually appealing color palettes using a frontend interf
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 palette-generator/
@@ -21,9 +21,9 @@ palette-generator/
 
 ---
 
-## 🚀 Getting Started
+## STEPS
 
-### 🔧 Backend (Flask)
+### Backend (Flask)
 
 1. Navigate to the backend:
    ```bash
@@ -50,7 +50,7 @@ palette-generator/
 
 ---
 
-### 🌐 Frontend (React)
+### Frontend (React)
 
 1. Navigate to the frontend:
    ```bash
@@ -69,13 +69,13 @@ palette-generator/
 
 ---
 
-## 📦 Deployment
+## Deployment
 
 You can host the frontend using Vercel/Netlify and deploy the Flask backend via Render, Railway, or AWS Lambda (with API Gateway).
 
 ---
 
-## 🙌 Credits
+## Credits
 
 Created by [sreelasya05](https://github.com/sreelasya05)
 
